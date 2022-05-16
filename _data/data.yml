@@ -1,29 +1,29 @@
-name: John Doe
+name: Carlos Manuel Chee Vázquez
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: carlos@asesoreducativo.mx
+  github: camachevaz
+  linkedin: 
+  phone: 6869462551
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Spanish
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Maestría en docencia universitaria
+    time: 2012-2014
+    university: Universidad Xochicalco
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Licenciatura en diseño gráfico
+    time: 2000-2003
+    university: Universidad UNEA
 
 skills:
   - category: Backend

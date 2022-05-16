@@ -34,8 +34,10 @@ skills:
       - Asesor externo registrado ante STPS
   - category: Herramientas TICs
     skill:
-      - React
-      - Typescript 
+      - Word
+      - Excel
+      - Google Workspace
+      - HTML + CSS
 
 # Profile
 profile: |

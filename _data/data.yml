@@ -26,18 +26,14 @@ education:
     university: Universidad UNEA
 
 skills:
-  - category: Backend
+  - category: Certificaciones
     skill: 
       - Go
       - Rust
-  - category: Frontend
+  - category: Herramientas TICs
     skill:
       - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Typescript 
 
 # Profile
 profile: |

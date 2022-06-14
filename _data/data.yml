@@ -91,15 +91,35 @@ experience:
       Moodle
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: Ciberseguridad para principantes
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Biblioteca Pública Central Estatal de Mexicali
+    conference: En el marco del evento Tardes de biblioteca, 2019
 
-  - title: Second title of paper. An interesting one too.
+  - title: Seguriddad en redes sociales
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: UVM Mexicali
+    conference: Semana del diseño, 2019
+    
+  - title: Artes visuales generadas por computadora
+    link: "#"
+    authors: UVM Mexicali
+    conference: Semana del diseño, 2019
+                
+  - title: Uso de G Suite
+    link: "#"
+    authors: Instituto Tecnológco de Mexicali
+    conference: Congreso Argos, 2018
+        
+  - title: Charla-taller Ciudades Verdes y Humanas: Movilidad y Sustentabilidad
+    link: "#"
+    authors: CETYS Mexicali
+    conference: 2019
+        
+  - title: Uso de internet
+    link: "#"
+    authors: Colegio de Bachilleres del Estado de Baja California
+    conference: Plantel Baja California, 2013
 
 projects:
   - title: Cool Project 

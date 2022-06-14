@@ -51,7 +51,7 @@ profile: |
 # Experience
 experience:
   - role: Analista especializado
-    time: Julio de 2006 - a la fecha
+    time: Julio de 2006-a la fecha
     company: Colegio de Bachilleres del Estado de Baja California 
     details: |
       Me he especializado en el desarrollo de sitios y aplicaciones web en CoBach BC, trabajando con frameworks en Python, PHP y .Net, con énfasis en la optimización del HTML y CSS. También tengo experiencia trabajando con bases de datos relacionales MySQL y Oracle en la ejecución de consultas y la generación de reportes.

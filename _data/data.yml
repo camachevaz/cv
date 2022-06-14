@@ -50,9 +50,9 @@ profile: |
 
 # Experience
 experience:
-  - role: Analista especializado
+  - role: Software Engineer
     time: 2020-Present
-    company: Colegio de Bachilleres del Estado de Baja California 
+    company: Google
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 

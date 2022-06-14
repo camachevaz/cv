@@ -61,14 +61,43 @@ experience:
       Colaboré en el desarrollo de la propuesta de preparatoria en línea para el Gobierno del Estado de Baja California, a través de ISEP, coordinando la mesa de trabajo de Material didáctico y plataforma digital y asesorando al equipo docente encargado de proporner la reforma del plan de estudios de la capacitación para el trabajo de TICs para CoBach BC
     technologies_used: | 
       MySQL, Oracle, PHP, Google Workspace, Jekyll
-  
   - role: Docente
-    time: 2019 - a la fecha
+    time: 2019-a la fecha
     company: Pathways School of Languages 
     details: |
       Docente presencial y en línea para grupos escolarizados y empresariales para el aprendizaje del idioma inglés
     technologies_used: | 
       Zoom, Google Docs
+  - role: Instructor
+    time: 2018-a la fecha
+    company: CANACINTRA 
+    details: |
+      Impartición de cursos relativos al uso básico, intermedio, y avanzado de Microsoft Excel.
+    technologies_used: | 
+      Excel
+  - role: Instructor
+    time: 2020-2021
+    company: G Nerd  
+    details: |
+      Colaboré como instructor especializado en el uso de Google Workspace
+    technologies_used: | 
+      Google Workspace
+  - role: Instructor
+    time: 2020-2021
+    company: G Nerd  
+    details: |
+      Colaboré como instructor especializado en el uso de Google Workspace
+    technologies_used: | 
+      Google Workspace
+  - role: Docente
+    time: 2006-2013
+    company: Universidad Xochicalco  
+    details: |
+      Docente de asignaturas relacionadas al uso de la tecnología en las carreras de Diseño integral, Mercadotecnia, y Comunicación.
+
+      Fungí como sinodal para la aprobación de proyectos de titulación y como facilitador de talleres y cursos para los alumnos.
+    technologies_used: | 
+      Google Workspace
 
 publications:
   - title: Random title of paper. An interesting one.

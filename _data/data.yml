@@ -1,6 +1,6 @@
 name: Carlos Manuel Chee Vázquez
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -14,10 +14,9 @@ contact:
 languages:
   - idiom: Español
   - idiom: Inglés
-  - idiom: 
 
 education:
-  - degree: Maestría en docencia universitaria
+  - degree: Maestría en docencia
     time: 2012-2014
     university: Universidad Xochicalco
 
@@ -34,10 +33,12 @@ skills:
       - Asesor externo registrado ante STPS
   - category: Herramientas TICs
     skill:
-      - Word
-      - Excel
+      - Word + Google Docs
+      - Excel + Google Sheets
       - Google Workspace
       - HTML + CSS
+      - SQL
+      - Línea de comando
 
 # Profile
 profile: |
@@ -49,29 +50,25 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Analista especializado
+    time: Julio de 2006 - a la fecha
+    company: Colegio de Bachilleres del Estado de Baja California 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Me he especializado en el desarrollo de sitios y aplicaciones web en CoBach BC, trabajando con frameworks en Python, PHP y .Net, con énfasis en la optimización del HTML y CSS. También tengo experiencia trabajando con bases de datos relacionales MySQL y Oracle en la ejecución de consultas y la generación de reportes.
+
+      También administro el dominio Google Workspace for Education Fundamentals y capacito en el uso de estas herramientas.
+
+      Colaboré en el desarrollo de la propuesta de preparatoria en línea para el Gobierno del Estado de Baja California, a través de ISEP, coordinando la mesa de trabajo de Material didáctico y plataforma digital y asesorando al equipo docente encargado de proporner la reforma del plan de estudios de la capacitación para el trabajo de TICs para CoBach BC
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      MySQL, Oracle, PHP, Google Workspace, Jekyll
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Docente
+    time: 2019 - a la fecha
+    company: Pathways School of Languages 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Docente presencial y en línea para grupos escolarizados y empresariales para el aprendizaje del idioma inglés
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Zoom, Google Docs
 
 publications:
   - title: Random title of paper. An interesting one.

@@ -54,25 +54,41 @@ experience:
     time: 2006-Actual
     company: Colegio de Bachilleres del Estado de Baja California
     details: |
-      Me he especializado en el desarrollo de sitios y aplicaciones web en CoBach BC, trabajando con frameworks en Python, PHP y .Net, con énfasis en la optimización del HTML y CSS. También tengo experiencia trabajando con bases de datos relacionales MySQL y Oracle en la ejecución de consultas y la generación de reportes.
-
-      También administro el dominio Google Workspace for Education Fundamentals y capacito en el uso de estas herramientas.
-      
-      Colaboré en el desarrollo de la propuesta de preparatoria en línea para el Gobierno del Estado de Baja California, a través de ISEP, coordinando la mesa de trabajo de Material didáctico y plataforma digital y asesorando al equipo docente encargado de proporner la reforma del plan de estudios de la capacitación para el trabajo de TICs para CoBach BC
+      Me he especializado en el desarrollo de sitios y aplicaciones web en CoBach BC, trabajando con frameworks en Python, PHP, .Net y Jekyll, con énfasis en la optimización de HTML y CSS. Trabajo con bases de datos MySQL y Oracle. Administro el dominio Google Workspace for Education Fundamentals y capacito en el uso de estas herramientas. Colaboro en el desarrollo de material didáctico y contenidoos temáticos.
     technologies_used: | 
       PHP, .Net, MySQL, Oracle, Windows CMD, Jekyll, Google Workspace
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Docente
+    time: 2019-Actual
+    company: Pathways School of Languages
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Docente presencial y en línea para grupos escolarizados y empresariales para el aprendizaje del idioma inglés como segunda lengua.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Google Docs, Meet, Zoom
+  
+  - role: Instructor
+    time: 2018-Actual
+    company: CANACINTRA 
+    details: |
+      Impartición de cursos relativos al uso básico, intermedio, y avanzado de Microsoft Excel.
+    technologies_used: | 
+      Microsoft 365, Microsoft Excel
+
+  - role: Instructor
+    time: 2019-2020
+    company: G Nerd 
+    details: |
+      Instructor especializado en el uso y configuración de Google Workspace
+    technologies_used: | 
+      Goole Workspace
+
+  - role: Docente
+    time: 2006-2013
+    company: Universidad Xochicalco
+    details: |
+      Docente de asignaturas relacionadas al uso de la tecnología en las carreras de Diseño integral, Mercadotecnia, y Comunicación. Sinodal para la aprobación de proyectos de titulación y facilitador de talleres y cursos para los alumnos.
+    technologies_used: | 
+      Moodle
 
 publications:
   - title: Random title of paper. An interesting one.

@@ -7,7 +7,7 @@ contact:
   email: carlos@asesoreducativo.mx
   github: camachevaz
   linkedin: 
-  phone: "+52 6869462551"
+  phone: "+526869462551"
   gitlab: 
   twitter: 
 
@@ -56,7 +56,7 @@ experience:
     technologies_used: | 
       PHP, .Net, MySQL, Oracle, Windows command line, Jekyll, Google Workspace
   
-  - role: Tacher
+  - role: Teacher
     time: 2019-to date
     company: Pathways School of Languages
     details: |

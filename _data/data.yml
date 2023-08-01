@@ -7,62 +7,60 @@ contact:
   email: carlos@asesoreducativo.mx
   github: camachevaz
   linkedin: 
-  phone: 6869462551
+  phone: +526869462551
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Español
-  - idiom: Inglés
+  - idiom: Spanish (MX)
+  - idiom: English (US)
 
 education:
-  - degree: Maestría en docencia
+  - degree: Masters degree in teaching
     time: 2012-2014
     university: Universidad Xochicalco
 
-  - degree: Licenciatura en diseño gráfico
+  - degree: Degree in Graphic design
     time: 2000-2003
     university: Universidad UNEA
 
 skills:
-  - category: Certificaciones
+  - category: Certifications
     skill: 
       - Conocer EC0217
       - TOEFL ITP 
       - Google Certified Educator nivel 2
-      - Asesor externo registrado ante STPS
-  - category: Herramientas TICs
+      - Registered STPS external trainer
+  - category: Skills
     skill:
       - Word + Google Docs
       - Excel + Google Sheets
-      - Google Workspace
+      - Google Workspace admin
       - HTML + CSS
       - SQL
-      - Línea de comando
+      - Command line in Windows, MacOS, and Linux
 
 # Profile
 profile: |
-  Soy Carlos Manuel Chee Vázquez, mexicano de 40 años de edad. Apasionado por el uso de la tecnología y su aprovechamiento positivo en los aspectos educativos, personales y profesionales.
+  I'm Carlos Chee, a 41 year-old mexican passionate about the use of technology and it's positive use in educational, personal, and professional settings.
 
-  Ideo, impulso, promuevo y apoyo ideas, eventos y proyectos que contribuyan al desarrollo social positivo. Creo que la tecnología pertinente aplicada de la forma apropiada nos ayudará a desarrollar un mejor entorno.
-  
-  También me motiva la restauración del medio ambiente, la equidad, el rechazo a cualquier forma de discriminación, y la igualdad de oportunidades, el respeto y trato justo hacia los animales, la inclusión de medios de transporte alternativos a los automóviles privados entre otras causas.
+  I conceive, encourage, promote, and support ideas, events, and projects that contribuite to positive social and professional development. I believe that technology when applied in the right way helps us improve our environments.
 
 # Experience
 experience:
-  - role: Analista especializado
-    time: 2006-Actual
+  - role: Specialized analyst
+    time: 2006-to date
     company: Colegio de Bachilleres del Estado de Baja California
     details: |
-      Me he especializado en el desarrollo de sitios y aplicaciones web en CoBach BC, trabajando con frameworks en Python, PHP, .Net y Jekyll, con énfasis en la optimización de HTML y CSS. Trabajo con bases de datos MySQL y Oracle. Administro el dominio Google Workspace for Education Fundamentals y capacito en el uso de estas herramientas. Colaboro en el desarrollo de material didáctico y contenidoos temáticos.
+      I have specialised in developing websites and web applications at CoBach BC, working with Python, PHP, .Net and Jekyll frameworks, with an emphasis on HTML and CSS optimisation. I work with MySQL and Oracle databases. I manage the Google Workspace for Education Fundamentals domain and train in the use of these tools. I collaborate in the development of didactic material and thematic content.
     technologies_used: | 
-      PHP, .Net, MySQL, Oracle, Windows CMD, Jekyll, Google Workspace
+      PHP, .Net, MySQL, Oracle, Windows command line, Jekyll, Google Workspace
   
-  - role: Docente
-    time: 2019-Actual
+  - role: Tacher
+    time: 2019-to date
     company: Pathways School of Languages
     details: |
-      Docente presencial y en línea para grupos escolarizados y empresariales para el aprendizaje del idioma inglés como segunda lengua.
+      Face-to-face and online teacher for school and corporate groups for learning English as a second language.
     technologies_used: | 
       Google Docs, Meet, Zoom
   
@@ -75,51 +73,51 @@ experience:
       Microsoft 365, Microsoft Excel
 
   - role: Instructor
-    time: 2019-2020
+    time: 2019-to date
     company: G Nerd 
     details: |
-      Instructor especializado en el uso y configuración de Google Workspace
+      Trainer specialised in the use and configuration of Google Workspace
     technologies_used: | 
       Goole Workspace
 
-  - role: Docente
+  - role: Teacher
     time: 2006-2013
     company: Universidad Xochicalco
     details: |
-      Docente de asignaturas relacionadas al uso de la tecnología en las carreras de Diseño integral, Mercadotecnia, y Comunicación. Sinodal para la aprobación de proyectos de titulación y facilitador de talleres y cursos para los alumnos.
+      Teacher of subjects related to the use of technology in the careers of Integral Design, Marketing, and Communication. Synodal for the approval of degree projects and facilitator of workshops and courses for students
     technologies_used: | 
       Moodle
 
 publications:
-  - title: Ciberseguridad para principantes
+  - title: Cybersecurity for beginners (end users)
     link: "#"
     authors: Biblioteca Pública Central Estatal de Mexicali
-    conference: En el marco del evento Tardes de biblioteca, 2019
+    conference: Part of the Tardes de biblioteca event, 2019
 
-  - title: Seguriddad en redes sociales
+  - title: Security in social networks
     link: "#"
     authors: UVM Mexicali
-    conference: Semana del diseño, 2019
+    conference: Design week, 2019
     
-  - title: Artes visuales generadas por computadora
+  - title: Computer generated visual arts (p5js)
     link: "#"
     authors: UVM Mexicali
-    conference: Semana del diseño, 2019
+    conference: Design week, 2019
                 
-  - title: Uso de G Suite
+  - title: Introduction to Google Workspace
     link: "#"
     authors: Instituto Tecnológco de Mexicali
-    conference: Congreso Argos, 2018
+    conference: Argos Congress, 2018
         
-  - title: Charla-taller Ciudades Verdes y Humanas. Movilidad y Sustentabilidad
+  - title: Green and Human cities Workshop. Mobility and Sustainability
     link: "#"
     authors: CETYS Mexicali
     conference: 2019
         
-  - title: Uso de internet
+  - title: Introduction to Internet
     link: "#"
     authors: Colegio de Bachilleres del Estado de Baja California
-    conference: Plantel Baja California, 2013
+    conference: Baja California school, 2013
 
 projects:
   - title: Cool Project 
@@ -137,7 +135,7 @@ projects:
 # Volunteering
 volunteering:
   - time: 2015-2017
-    role: Fundador
+    role: Founder
     company: Google Educators Group Mexicali
     details: |
-      Propuse y fundé el capítulo Mexicali de Google Educators Group
+      I proposed and founded the Mexicali chapter of the Google Educators Group.
